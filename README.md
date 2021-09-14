@@ -5,7 +5,7 @@ Download the .ct file here: <a href="https://raw.githubusercontent.com/lord-yosh
 
 -- Marvel vs Capcom 2 Cheat Engine Trainer Script
 
--- By Lord_Yoshi
+-- By Lord_Yoshi (lemmy3k just wanted a copy)
 
 -- Created some time in 2020
 
